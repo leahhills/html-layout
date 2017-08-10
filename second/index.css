@@ -1,0 +1,45 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.box{
+  height: 100vh;
+  width:calc(100% / 3);
+  float: left;
+}
+.box.b1{
+  background: #5e86e2;
+
+}
+.box.b2{
+  background: #2bdad0;
+
+
+}.box.b3{
+  background: #9ce86d;
+}
+
+.imageplaceholder {
+  width: calc(100% / 3);
+  height:27vh;
+  background: #c6270b;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  color: white;
+  padding-top: 50px;
+  text-align: center;
+
+}
+.imageplaceholder img{
+  text-align: center;
+  width: 100%;
+  height: auto;
+}
