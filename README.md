@@ -1,6 +1,6 @@
 <img src="https://devmounta.in/img/logowhiteblue.png" width="250" align="right">
 
-#My First Commit Story
+# My First Commit Story
 Once upon a time there was a new developer they wanted to use the powers of Github. So they wrote a story about how to make changes to code. And then share with github.
 
 # Project Summary
